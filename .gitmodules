@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/fernandomayer/universe
-	shallow = true
 	branch = HEAD
 [submodule "FishMaps"]
 	path = FishMaps
 	url = https://github.com/fernandomayer/FishMaps
-	shallow = true
-	registered = true
