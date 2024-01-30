@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/fernandomayer/universe
+	url = https://github.com/fernandomayer/fernandomayer.r-universe.dev
 	branch = HEAD
 [submodule "FishMaps"]
 	path = FishMaps
 	url = https://github.com/fernandomayer/FishMaps
+[submodule "geslaR"]
+	path = geslaR
+	url = https://github.com/EireExtremes/geslaR
